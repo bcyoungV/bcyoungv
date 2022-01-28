@@ -11,11 +11,11 @@ Frontend Web Developer</h3>
 
 ## 🙋‍♂️ About me
 
-- 🌱 Currently learning **IA & BI**
+- 🌱 Currently learning: **IA & BI**
 
-- 📫 How to contact me **brunomussungo@gmail.com**
+- 📫 How to contact me: **brunomussungo@gmail.com**
 
-- ⚡ Hobbies **Video-Game & GYM**
+- ⚡ Hobbies: **Video-Game & GYM**
 
 ## 🚀 Languages & tools:
 
