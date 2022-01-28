@@ -3,23 +3,21 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <div class="container">
- <h1 align="center" class="w3-text-amber">Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> eu sou Bruno Casaca</h1>
+ <h1 align="center" class="w3-text-amber">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Bruno</h1>
 </div>
 <h3 align="center">
-Desenvolvedor Web Front-end</h3>
+Frontend Web Developer</h3>
 
 
-## 🙋‍♂️ Sobre mim
+## 🙋‍♂️ About me
 
-- 🌱 Atualmente aprendendo **Inteligencia Artificial & BI**
+- 🌱 Currently learning **IA & BI**
 
-- 👯 Disponivel para colaboração em **Projetos Abertos**
+- 📫 How to contact me **brunomussungo@gmail.com**
 
-- 📫 Como me contactar **brunomussungo@gmail.com**
+- ⚡ Hobbies **Video-Game & GYM**
 
-- ⚡ Tempo livre **Video-Jogos & GYM**
-
-## 🚀 Linguagens & Ferramentas:
+## 🚀 Languages & tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -46,7 +44,7 @@ Desenvolvedor Web Front-end</h3>
     </a>
 </p>
 
-## 📊 Meu Status Github
+## 📊 My status on Github
 
   <br/>
     <a href="https://github.com/bcyoungV/github-readme-stats"><img alt="Bruno Casaca Status" src="https://github-readme-stats.vercel.app/api?username=bcyoungV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0C0A0CF0" /></a>
@@ -62,7 +60,7 @@ Desenvolvedor Web Front-end</h3>
 <br/>
 <br/>
 
-## ❤ Visualizações & Seguidores
+## ❤ View & followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bcyoungV">
 </a>
