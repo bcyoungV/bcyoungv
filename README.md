@@ -13,7 +13,7 @@ Frontend Web Developer</h3>
 
 - 🌱 Currently learning: **IA & BI**
 
-- 📫 How to contact me: **brunomussungo@gmail.com**
+- 📫 How to contact me: **b.casaca@pm.me**
 
 - ⚡ Hobbies: **Video-Game & GYM**
 
